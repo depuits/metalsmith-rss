@@ -57,6 +57,10 @@ Collection to use
 
 Limit of items to put in the rss feed
 
+#### `limitFromEnd` (default: `false`)
+
+Take the number of limited items from the end of the collection instead of the start.
+
 #### `encoding` (default: `"utf8"`)
 
 RSS encoding
